@@ -1,0 +1,15 @@
+{
+  "filename": "IMG20220226143650_jpg.rf.0ba47b23e9e7ad87525a715dfd6c40e5.jpg",
+  "detections": [
+    {
+      "label": "no_glove",
+      "confidence": 0.87,
+      "bbox": [
+        160.53,
+        180.72,
+        458.88,
+        421.12
+      ]
+    }
+  ]
+}
