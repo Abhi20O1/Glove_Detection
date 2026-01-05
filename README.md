@@ -1,6 +1,6 @@
-# Gloved vs. Ungloved Hand Detection
+# 🧤 Gloved vs. Ungloved Hand Detection
 
-## Project Overview
+## 📌 Project Overview
 This project is a computer vision-based system designed to detect gloves. It processes images and identifies two classes:
 - 'gloved_hand'
 - 'ungloved_hand'
@@ -9,7 +9,7 @@ The system is build using **Yolov8**, capable of real-time detection, and genera
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 * **Name:** Gloves - Object Detection
 * **Source:** [Roboflow Universe](https://universe.roboflow.com/glove-uylxg/glove-q7czq/dataset/1)
@@ -19,7 +19,7 @@ The system is build using **Yolov8**, capable of real-time detection, and genera
 
 ---
 
-## Model and Training
+## ⚙️ Model and Training
 * **Model:** **YOLOv8n**.
 * **Framework:** Ultralytics
 * **Image Size:** 640x640
@@ -30,7 +30,7 @@ The system is build using **Yolov8**, capable of real-time detection, and genera
 
 ---
 
-## How to Run the Script
+## 🚀 How to Run the Script
 
 1.  **Setup Environment:**
     * Clone the repository.
@@ -66,7 +66,7 @@ The system is build using **Yolov8**, capable of real-time detection, and genera
     <td align="center"><b>Annotated Image</b></td>
   </tr>
   <tr>
-    <td><img src="Part_1_Glove_Detection/sample_images/S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg" width="100%"></td>
-    <td><img src="Part_1_Glove_Detection/output/S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg" width="100%"></td>
+    <td><img src="Dataset/test/images/S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg" width="100%"></td>
+    <td><img src="submission/Part_1_Glove_Detection/output/S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg" width="100%"></td>
   </tr>
 </table>
